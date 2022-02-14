@@ -2,9 +2,15 @@
 
 Establishment Wireless Intranet Network and Development Web Application for Disaster Areas  Using Balloons
 
+영상추가
+
 ### Network System Overview
 
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/31057849/153922523-8b3a008c-426f-49d2-a963-04bd2e86b153.png">
+
+### Application System Overview
+
+사진추가
 
 ## 📌 Role
 
@@ -78,25 +84,25 @@ Thanks go to these wonderful people :
        -Chungnam National University
        -Major in Computer Science and Engineering
        -siontama@gmail.com
-       -https://github.com/Yaminyam
+       -https://github.com/yaminyam
        
     🎅🏻Pilkyo Kim
        -Jeju National University
-       -Major in Computer Education
+       -Major in Computer Science Engineering
        -masterpil@jejunu.ac.kr
-       -https://github.com/masterpil
+       -https://github.com/kimminje0ng
       
     👰Juhyun Kim
        -Jeju National University
-       -Major in Business Administrate Information
+       -Major in Computer Science Engineering
        -990001@stu.jejunu.ac.kr
-       -https://github.com/juhyun9
+       -https://github.com/zihos
        
     👩‍🚀Yijun Yoo
        -Jeju National University
-       -Major in Housing & Family Welfare (Faculty of Human Ecology & Welfare)
+       -Major in CNIT
        -uyijune15@gmail.com
-       -https://github.com/yooyijun15
+       -https://github.com/dplok1
     
     👨🏻‍🦱Jihoon Yang
        -Jeju National University
@@ -106,15 +112,13 @@ Thanks go to these wonderful people :
     
     👨🏻‍💼Haeeun Ok
        -Jeju National University
-       -Major in Computer Engineering
-       -dhrgodms123@gmail.com
-       -https://github.com/dhrgodms
+       -Major in CNIT
+       -okaysilver@jejunu.ac.kr
     
     🧔🏻Hyewon Koh
        -Jeju National University
-       -Major in Computer Science & Statistics
+       -Major in CNIT
        -khw160929@jejunu.ac.kr
-       -https://github.com/Hyewon-Koh
        
     🧔🏻Alec Head
        -Purdue University
